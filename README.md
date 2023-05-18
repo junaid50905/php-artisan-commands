@@ -12,3 +12,4 @@
 | php artisan make:request StudentReuest  | to make a request file  |
 | php artisan optimize  | after editing Route  |
 | php artisan make:middleware MiddlewareName | to make a middleware |
+| php artisan make:model Students -mc  | to make controller,model and migratin file |
